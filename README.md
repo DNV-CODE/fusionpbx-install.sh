@@ -9,7 +9,7 @@ A quick install guide & scripts for installing FusionPBX. It is recommended to s
 Debian is the preferred operating system by the FreeSWITCH developers. It supports the latest video dependencies and should be used if you want to do video mixing. Download Debian at https://cdimage.debian.org/cdimage/release/current/
 
 ```sh
-wget -O - https://raw.githubusercontent.com/fusionpbx/fusionpbx-install.sh/master/debian/pre-install.sh | sh;
+wget -O - https://raw.githubusercontent.com/DNV-CODE/fusionpbx-install.sh/master/debian/pre-install.sh | sh;
 cd /usr/src/fusionpbx-install.sh/debian && ./install.sh
 ```
 
