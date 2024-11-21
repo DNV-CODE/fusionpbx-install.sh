@@ -11,6 +11,7 @@ Debian is the preferred operating system by the FreeSWITCH developers. It suppor
 ```sh
 wget -O - https://raw.githubusercontent.com/DNV-CODE/fusionpbx-install.sh/master/debian/pre-install.sh | sh;
 cd /usr/src/fusionpbx-install.sh/debian && ./install.sh
+
 ```
 
 ### Ubuntu and Raspberry OS
